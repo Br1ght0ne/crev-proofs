@@ -20,3 +20,24 @@ review:
 NAIt_LyUK4xwbzeRiTURGKAvrxuUm6y7jUfCyCS7eCo3pLHMeBbrI1U4R7lquLfNuqykya_kuAdvOneL7QP2Dw
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-02-26T15:39:20.539538700+02:00"
+from:
+  id-type: crev
+  id: h-_vcu6JdEAy48e_1lAJR8DNHxSwabc155psezaTKh8
+  url: "https://github.com/Br1ght0ne/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: semver-parser
+  version: 0.7.0
+  digest: bYZefTMZiF1oSt2RGttXXJeA7N4auFMJkCWx9UNdw-Q
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: strong
+----- SIGN CREV PROOF -----
+jNQFaiTpcHvZ_4qyLlPjTYH9EikxHfSpyCuRgWuIaThXQ5K68oMPTnQNlYe3ZxiQN4zQJ9k_80W6g4QtYaLGCg
+----- END CREV PROOF -----
+
