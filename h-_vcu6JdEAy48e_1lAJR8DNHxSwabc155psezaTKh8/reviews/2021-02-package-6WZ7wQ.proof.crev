@@ -1,0 +1,22 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2021-02-26T13:45:02.798120100+02:00"
+from:
+  id-type: crev
+  id: h-_vcu6JdEAy48e_1lAJR8DNHxSwabc155psezaTKh8
+  url: "https://github.com/Br1ght0ne/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: normalize-line-endings
+  version: 0.3.0
+  revision: 4616e54a7dc1f9fac74f3bde41a951b576940e56
+  digest: nqB4IYHnPUgmI9O5usKHng8lQW-i_32lRJDkCPlSVHQ
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+----- SIGN CREV PROOF -----
+NAIt_LyUK4xwbzeRiTURGKAvrxuUm6y7jUfCyCS7eCo3pLHMeBbrI1U4R7lquLfNuqykya_kuAdvOneL7QP2Dw
+----- END CREV PROOF -----
+
